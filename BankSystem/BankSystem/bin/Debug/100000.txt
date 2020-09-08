@@ -1,0 +1,7 @@
+Account Number: 100000
+First Name: sss
+Last Name: dd
+Address: ssss
+Phone: 2948485
+Email: huiyun.niu@student.uts.edu.au
+Account Balance: $8878

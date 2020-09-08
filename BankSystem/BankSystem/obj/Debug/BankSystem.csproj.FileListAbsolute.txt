@@ -1,0 +1,14 @@
+C:/Users/13320445/AppLockerExceptions/BankSystem/BankSystem/bin/Debug/BankSystem.exe.config
+C:/Users/13320445/AppLockerExceptions/BankSystem/BankSystem/bin/Debug/BankSystem.exe
+C:/Users/13320445/AppLockerExceptions/BankSystem/BankSystem/bin/Debug/BankSystem.pdb
+C:/Users/13320445/AppLockerExceptions/BankSystem/BankSystem/obj/Debug/BankSystem.csprojResolveAssemblyReference.cache
+C:/Users/13320445/AppLockerExceptions/BankSystem/BankSystem/obj/Debug/BankSystem.csproj.CoreCompileInputs.cache
+C:/Users/13320445/AppLockerExceptions/BankSystem/BankSystem/obj/Debug/BankSystem.exe
+C:/Users/13320445/AppLockerExceptions/BankSystem/BankSystem/obj/Debug/BankSystem.pdb
+/Users/niuhuiyun/Desktop/C#/assignment/assignment_1/BankSystem/BankSystem/bin/Debug/BankSystem.exe.config
+/Users/niuhuiyun/Desktop/C#/assignment/assignment_1/BankSystem/BankSystem/bin/Debug/BankSystem.exe
+/Users/niuhuiyun/Desktop/C#/assignment/assignment_1/BankSystem/BankSystem/bin/Debug/BankSystem.pdb
+/Users/niuhuiyun/Desktop/C#/assignment/assignment_1/BankSystem/BankSystem/obj/Debug/BankSystem.csprojAssemblyReference.cache
+/Users/niuhuiyun/Desktop/C#/assignment/assignment_1/BankSystem/BankSystem/obj/Debug/BankSystem.csproj.CoreCompileInputs.cache
+/Users/niuhuiyun/Desktop/C#/assignment/assignment_1/BankSystem/BankSystem/obj/Debug/BankSystem.exe
+/Users/niuhuiyun/Desktop/C#/assignment/assignment_1/BankSystem/BankSystem/obj/Debug/BankSystem.pdb
